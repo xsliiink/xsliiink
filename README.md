@@ -2,7 +2,7 @@
 <p align="center">Welcome to my digital dojo — part portfolio, part chaos, all personal.</p>
 
 <p align="center">
-  <img src="[https://media.tenor.com/fj93XzVqqR0AAAAC/ninja-retro.gif](https://tenor.com/view/ninja-retro-manga-catch-badass-gif-13971051)" alt="Retro Ninja" />
+  <img src="[[https://media.tenor.com/fj93XzVqqR0AAAAC/ninja-retro.gif](https://tenor.com/view/ninja-retro-manga-catch-badass-gif-13971051)](https://media1.tenor.com/m/vHVU1kZrQjQAAAAd/ninja-retro.gif)" alt="Retro Ninja" />
 </p>
 
 ---
