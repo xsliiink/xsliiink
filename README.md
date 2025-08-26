@@ -2,7 +2,7 @@
 <p align="center">Welcome to my digital dojo — part portfolio, part chaos, all personal.</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDc5NHppeDVpeWl1YjB2bmxrZmhtcjBoZzd4OHcwMTR4dHhucnhibSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y2u7y0t4OR8kRyNU04/giphy.gif" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem4yMDZ1cHNxdWhrMGJmMXd1NTNwMGR3MnMydzR0N21vYjVkb3Q3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fc4CgGnZOktRm/giphy.gif" />
 </p>
 
 ---
