@@ -23,9 +23,9 @@
 
 ### 🚀 KEY PROJECTS
 
-* **[Social Event Platform](ССЫЛКА_ТУТ)** *Full-stack migration from JS to TypeScript. Focused on data integrity and relational logic.*
-* **[Mini-Blog CMS](ССЫЛКА_ТУТ)** *Secure content management with RBAC (Role-Based Access Control).*
-* **[Interactive Portfolio](ССЫЛКА_ТУТ)** *High-performance UI built with React and GSAP animations.*
+* **[Social Event Platform](https://github.com/xsliiink/Social-Project)** *Full-stack migration from JS to TypeScript. Focused on data integrity and relational logic.*
+* **[Mini-Blog CMS](https://github.com/xsliiink/mini-blog)** *Secure content management with RBAC (Role-Based Access Control).*
+* **[Interactive Portfolio](https://github.com/xsliiink/PORTFOLIO2)** *High-performance UI built with React and GSAP animations.*
 
 ---
 
