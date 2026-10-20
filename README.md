@@ -1,42 +1,53 @@
-# Mykyta Kozlov | xsliiink ⚡
-
-**Computer Science Student @ Maynooth University** *Building high-performance systems and interactive digital experiences.*
-
----
-
-### 💾 THE PROFILE
-- **Focus:** Backend reliability & Type-safe architecture.
-- **Experience:** Coding since age 12, currently engineering full-stack solutions.
-- **Mindset:** Moving beyond "it works" to "it's scalable and secure."
+<h1 align="center">Mykyta Kozlov</h1>
+<p align="center">
+  <b>Software & Systems Engineer</b> • CS @ Maynooth University (First Class Honours)
+</p>
+<p align="center">
+  <em>Building scalable, type-safe applications, secure networks, and reliable distributed systems.</em>
+</p>
 
 ---
 
-### 🛠 TECH STACK
-
-**Languages:** `TypeScript` `JavaScript` `SQL` `Java` `Python`
-
-**Frontend & Logic:** `React` `Vite` `GSAP` `TailwindCSS`
-
-**Backend & Storage:** `Node.js` `Express` `SQLite` `PostgreSQL`
+### 💻 ABOUT ME
+- 🔭 **Current Focus:** Scaling full-stack architectures, Linux infrastructure, and containerized microservices.
+- ⚡ **Background:** Strong foundation in systems programming, concurrency, and production-grade TypeScript.
+- 🛡️ **Philosophy:** Moving beyond "it works" to strict type-safety, zero-trust security, and high performance.
 
 ---
 
-### 🚀 KEY PROJECTS
+### 🛠️ TECH STACK
 
-* **[EventHub](https://github.com/xsliiink/Social-Project)** *Full-stack migration from JS to TypeScript. Focused on data integrity and relational logic.*
-* **[Mini-Blog CMS](https://github.com/xsliiink/mini-blog)** *Secure content management with RBAC (Role-Based Access Control).*
-* **[Interactive Portfolio](https://github.com/xsliiink/PORTFOLIO2)** *High-performance UI built with React and GSAP animations.*
+- **Languages:** `TypeScript`, `JavaScript`, `Python`, `Java`, `SQL`[cite: 4]
+- **Frontend & Mobile:** `React`, `React Native`, `Expo`, `Vite`, `GSAP`[cite: 4]
+- **Backend & APIs:** `Node.js`, `Express.js`, `Socket.io`, `REST APIs`, `Prisma ORM`[cite: 4]
+- **Databases & Testing:** `PostgreSQL`, `Jest`, `Supertest`, `TestNG`[cite: 4]
+- **Infrastructure & DevOps:** `Docker`, `Docker Compose`, `Linux (Bash)`, `Tailscale`, `UFW Firewall`
 
 ---
 
-### 📝 LOGS
-> Currently researching: *Database optimization & High-frequency data visualization.*
+### 🚀 FEATURED PROJECTS
+
+- **[Vision-LUT](https://github.com/xsliiink)** — *React Native, Expo, Prisma, Docker*  
+  Cross-platform mobile companion app with custom dark HUD interface, real-time Wi-Fi telemetry polling (LUX & temperature), and type-safe backend integration.
+- **[Homelab Infrastructure](https://github.com/xsliiink)** — *Ubuntu Server, Docker, AdGuard Home, Tailscale, UFW*  
+  Self-hosted Linux server environment featuring centralized DNS ad-blocking, secure mesh VPN networking, and automated firewall hardening.
+- **[EventHub](https://github.com/xsliiink/Social-Project)** — *TypeScript, Node.js, Express, PostgreSQL, Jest*[cite: 3, 4]  
+  Modular full-stack platform featuring 100% strict TypeScript typing, real-time WebSockets synchronization, JWT/RBAC security, and containerized multi-container orchestration.
+
+---
+
+### 📈 GITHUB STATS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xsliiink&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ---
 
 ### 📫 CONNECT
-[LinkedIn](ТВОЙ_ЛИНК) | [Portfolio](ТВОЙ_ЛИНК) | [Email](ТВОЙ_МЕЙЛ)
+- **Email:** xsliiink@gmail.com
+- **Phone:** +353830806047
+- **Location:** Ardee / Dublin, Ireland[cite: 3, 4]
 
 <p align="right">
-  <sub><i>Building for reliability.</i></sub>
+  <sub><i>Engineered for reliability.</i></sub>
 </p>
