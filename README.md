@@ -17,10 +17,10 @@
 
 ### 🛠️ TECH STACK
 
-- **Languages:** `TypeScript`, `JavaScript`, `Python`, `Java`, `SQL`[cite: 4]
-- **Frontend & Mobile:** `React`, `React Native`, `Expo`, `Vite`, `GSAP`[cite: 4]
-- **Backend & APIs:** `Node.js`, `Express.js`, `Socket.io`, `REST APIs`, `Prisma ORM`[cite: 4]
-- **Databases & Testing:** `PostgreSQL`, `Jest`, `Supertest`, `TestNG`[cite: 4]
+- **Languages:** `TypeScript`, `JavaScript`, `Python`, `Java`, `SQL`
+- **Frontend & Mobile:** `React`, `React Native`, `Expo`, `Vite`, `GSAP`
+- **Backend & APIs:** `Node.js`, `Express.js`, `Socket.io`, `REST APIs`, `Prisma ORM`
+- **Databases & Testing:** `PostgreSQL`, `Jest`, `Supertest`, `TestNG`
 - **Infrastructure & DevOps:** `Docker`, `Docker Compose`, `Linux (Bash)`, `Tailscale`, `UFW Firewall`
 
 ---
@@ -46,7 +46,7 @@
 ### 📫 CONNECT
 - **Email:** xsliiink@gmail.com
 - **Phone:** +353830806047
-- **Location:** Ardee / Dublin, Ireland[cite: 3, 4]
+- **Location:** Ardee / Dublin, Ireland
 
 <p align="right">
   <sub><i>Engineered for reliability.</i></sub>
